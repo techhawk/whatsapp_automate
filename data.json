@@ -1,0 +1,37 @@
+{
+  "917498339698@c.us": {
+    "state": "completed",
+    "name": "Amash Ansari",
+    "email": "amashhinfo@gmail.com",
+    "job_type": "full-time",
+    "field": "fron",
+    "experience": "3",
+    "tech_stack": [
+      "react"
+    ],
+    "resume": "./resumes/917498339698@c.us.pdf"
+  },
+  "916390991206@c.us": {
+    "state": "completed",
+    "name": "Mohd kashif",
+    "email": "kashifsrahman@gmail.com",
+    "job_type": "Full-time",
+    "field": "Ui/uc",
+    "experience": "2 year",
+    "tech_stack": [
+      "React"
+    ],
+    "resume": "./resumes/916390991206@c.us.pdf"
+  },
+  "918888174720@c.us": {
+    "state": "waiting_for_resume",
+    "name": "Nice name",
+    "email": "Q du",
+    "job_type": "Full-Time",
+    "field": "Ui",
+    "experience": "7",
+    "tech_stack": [
+      "React"
+    ]
+  }
+}
